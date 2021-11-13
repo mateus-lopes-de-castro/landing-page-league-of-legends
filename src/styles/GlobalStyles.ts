@@ -20,8 +20,8 @@ export default createGlobalStyle`
         font-size: 1rem;
         font-weight: 400;
         line-height: 1.5;
-        background-color: $black;
-        color: $white;
+        background-color: #000;
+        color: #fff;
         overflow: hidden;
     }
 `
