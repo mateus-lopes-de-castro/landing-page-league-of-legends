@@ -1,6 +1,6 @@
 import React from "react";
 
-import logoImg from '../../assets/logo.png';
+import logoImg from '../../assets/images/logo.png';
 
 import { Container, Logo, NavContainer, Nav, NavItem, NavLink } from "./styles";
 
